@@ -74,45 +74,108 @@ Shows the distribution of employees by age group.
 
 **Insight:**
 
-- The majority of employees are in the **productive age range (approximately 27–36 years old)**
-- The company's workforce structure is dominated by mid-career employees
-- This age distribution is an **important baseline** for further attrition analysis
-
-Visualization of attrition distribution based on age groups.
-
-![Attrition by Age](images/attrition_by_age.png)
-
-**Insight:**
-- The highest attrition rate is in the **25–34 age group**
-- This indicates a risk of losing productive talent
+- The majority of employees are in the **productive age range (approximately 27–36 years old)**.
+- The company's workforce structure is dominated by mid-career employees.
+- This age distribution is an **important baseline** for further attrition analysis.
 
 ---
 
-### 3️⃣ Attrition by Department & Job Role
+### 3️⃣ Attrition Rate by Gender for Different Age Groups
 
-Shows the departments and job roles with the highest attrition rates.
+![Attrition Rate](images/Attrition%20Rate%20by%20Gender%20for%20Different%20Age%20Groups.png)
 
-![Attrition by Department](images/attrition_by_department.png)
+Presents attrition rates based on a combination of age group and gender.
 
 **Insight:**
-- The **Sales** and **R&D** departments are the main contributors to attrition
-- Job roles such as **Sales Executive** and **Research Scientist** show significant attrition rates
+
+- The **25–34 age group** shows a **relatively higher attrition rate**, especially among male employees.
+- There are differences in attrition patterns between male and female employees in several age groups.
 
 ---
 
-### 4️⃣ Attrition vs Job Satisfaction
+### 4️⃣ Department-wise Attrition
 
-Analyzes the relationship between job satisfaction and attrition.
+![Department-wise Attrition](https://github.com/lailabudianti/HR-Analytics-Dashboard/blob/main/images/Department-wise%20Attrition.png)
 
-![Attrition vs Job Satisfaction](images/attrition_job_satisfaction.png)
+Displaying attrition distribution by department.
 
 **Insight:**
-- Employees with **low job satisfaction** have a higher tendency for attrition
-- Demonstrates the importance of non-financial factors in retention strategies
+
+- The **Sales** and **R&D** departments account for the largest share of the company's total attrition.
+- Indicates the areas of the department that **need to be prioritized for further analysis** regarding the factors causing attrition.
+
+---
+
+### 5️⃣ Job Satisfaction Attrition
+
+![Job Satisfaction Attrition](https://github.com/lailabudianti/HR-Analytics-Dashboard/blob/main/images/Job%20Satisfaction%20Attrition%20(Job%20Role%20%C3%97%20Job%20Satisfaction).png)
+
+Analyzing the relationship between job role, job satisfaction level, and attrition.
+
+**Insight:**
+
+- Job roles such as **Sales Executive** and **Research Scientist** have **relatively high attrition rates** compared to other roles.
+- Attrition is more prevalent among employees with **low job satisfaction (levels 1–2)**.
+
+---
+
+### 6️⃣ Education Field-wise Attrition
+![Education Field-wise Attrition](https://github.com/lailabudianti/HR-Analytics-Dashboard/blob/main/images/Education%20Field-wise%20Attrition.png)
+
+Showing attrition distribution based on educational background.
+
+**Insight:**
+
+- Most attrition comes from **Life Sciences** and **Medical** backgrounds.
+- Certain fields of study contribute more to total attrition in absolute terms.
+- This insight can be an **early indication** for further analysis related to talent supply and recruitment patterns.
+
+---
+
+## 📈 Key Insights Summary
+
+The key insights gained from the analysis are:
+
+- **The company's attrition rate is 16.12%**
+- The **25–34 age group shows a relatively higher attrition rate**, especially among male employees
+- The **Sales** and **R&D** departments contribute the most to attrition
+- Attrition tends to be higher among **male employees** than female employees
+- Employees with **low job satisfaction** show a higher tendency for attrition
+- Job roles such as **Sales Executive** and **Research Scientist** have significant attrition rates
+
+These insights show that attrition does not occur randomly, but is concentrated in certain segments.
+
+---
+
+## 💡 Business Implications
+
+The analysis results indicate that companies can:
+
+- Focus retention programs on **high-risk age groups and job roles**
+- Evaluate job satisfaction factors as part of HR strategy
+- Use dashboards as a tool for continuous attrition monitoring
+- Support data-driven HR decision-making, rather than assumptions
+
+This dashboard is designed as an **exploration tool**, not just a static report.
+
+---
+
+## 📌 Output
+📊 Interactive HR Attrition Dashboard ([Tableau](https://public.tableau.com/app/profile/laila.budianti7765/viz/HRDashboard_16740227829380/HRAnalyticsDashboard))
 
 
+---
 
+## 🎓 Skills Demonstrated
+**Technical**
 
+- Data analysis & segmentation
+- Data visualization & dashboard design
+- HR analytics fundamentals
 
+**Business**
 
+- Analytical thinking
+- Insight-based storytelling
+- Translating data into HR-relevant insights
 
