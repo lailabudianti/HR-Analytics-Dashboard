@@ -181,5 +181,6 @@ This dashboard is designed as an **exploration tool**, not just a static report.
 
 ---
 
-👨‍💻 Contact
+##👨‍💻 Contact
+
 Created as a demonstration of data analysis and business intelligence capabilities.
