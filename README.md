@@ -1,6 +1,6 @@
 # 📊 HR Attrition Analysis Dashboard
 **HR Analytics | Data Visualization | Business Insight** 
-/n
+
 This project analyzes **employee attrition** using historical employee data and presents it in an **interactive dashboard** to help HR teams and management understand attrition patterns and identify high-risk employee segments.
 
 ---
