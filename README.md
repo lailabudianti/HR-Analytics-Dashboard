@@ -179,3 +179,7 @@ This dashboard is designed as an **exploration tool**, not just a static report.
 - Insight-based storytelling
 - Translating data into HR-relevant insights
 
+---
+
+👨‍💻 Contact
+Created as a demonstration of data analysis and business intelligence capabilities.
